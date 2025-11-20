@@ -87,8 +87,8 @@ export function HeroSection() {
             View My Work
           </Button>
           <a
-  href="/CV__AbhayaTrivedi.pdf"
-  download="CV__AbhayaTrivedi.pdf"
+  href="/CV_AbhayaTrivedi.pdf"
+  download="CV_AbhayaTrivedi.pdf"
   target="_blank"
   rel="noopener noreferrer"
 >
